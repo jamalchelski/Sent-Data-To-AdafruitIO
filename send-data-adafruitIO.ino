@@ -13,7 +13,7 @@
 #define AIO_SERVER "io.adafruit.com"
 #define AIO_SERVERPORT 1883 // use 8883 for SSL
 #define AIO_USERNAME "jamaruhamada"
-#define AIO_KEY "bbcbd9437aab4b359aca586cf8bce654"
+#define AIO_KEY "xxxxxxx"
 
 /************* DHT11 Setup ********************************************/
 #define DHTPIN D6
