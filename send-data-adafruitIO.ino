@@ -5,8 +5,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID "Xperia XZ Premium"
-#define WLAN_PASS "1sampai10"
+#define WLAN_SSID "xxxxx"
+#define WLAN_PASS "xxxx"
 
 /************************* Adafruit.io Setup *********************************/
 
